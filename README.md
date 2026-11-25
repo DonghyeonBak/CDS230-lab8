@@ -1,1 +1,13 @@
-# CDS230-lab8
+# CDS230-lab8_Donghyeon_Yuin
+
+K-nearest Neighbors (KnN)
+
+dataset 1:https://archive.ics.uci.edu/dataset/476/buddymove+data+set
+
+dataset 2: https://archive.ics.uci.edu/dataset/458/roman+urdu+data+sete
+
+Naïve Bayes (NB)
+
+Glass: https://archive.ics.uci.edu/dataset/42/glass+identification
+
+Ionosphere: https://archive.ics.uci.edu/dataset/52/ionosphere
